@@ -325,5 +325,4 @@ curl -X DELETE http://localhost:5000/api/ticket/{id} \
 
 ## License
 
-MIT © Gabriel#   h e l p d e s k A P I  
- 
+MIT © Gabriel
